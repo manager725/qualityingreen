@@ -164,3 +164,4 @@ The hotel photos are the hotel's own, from its current site. Area photos come fr
 **Not yet tested:** Safari, Firefox and a real iPhone.
 
 `_handoff/screens/` holds before and after screenshots for the pitch documents.
+"# qualityingreen" 
