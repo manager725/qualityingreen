@@ -1,0 +1,7 @@
+# Client hand-off material (screenshots, report, PDF): kept locally, not part of the website
+_handoff/
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
